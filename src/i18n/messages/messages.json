@@ -1,0 +1,7 @@
+[
+  {
+    "id": "screen.home.welcome",
+    "defaultMessage": "This is the home screen.",
+    "filepath": "src/app/screens/Home/index.js"
+  }
+]
